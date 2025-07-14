@@ -1,7 +1,7 @@
 # SENTIMENT CLASSIFIER NEURAL NETWORK
 
 
-Il programma è una rete neurale minimale (scritta senza l'uso di librerie esterne come PyTorch o TensorFlow) per classificare il sentiment di una frase in lingua italiana in una delle seguenti quattro categorie: positivo, negativo, neutro, arrabbiato.
+Il programma è una rete neurale minimale (scritta in puro Pyhon, senza l'uso di librerie esterne come PyTorch o TensorFlow) capace di classificare il sentiment di una frase in lingua italiana in una delle seguenti quattro categorie: positivo, negativo, neutro, arrabbiato.
 Il suo scopo è meramente didattico: esso consente di familiarizzare con l'idea dell'addestramento di una rete neurale. 
 
 <br>
